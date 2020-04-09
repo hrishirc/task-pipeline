@@ -13,4 +13,4 @@ Main.java in tests folder - Test which runs SampleJobImpl.java
 
 NOTE : This currently is a plain vanilla version. I plan to integrate it with Spring when I get time. Also need to improve documentation which is currently non-existent
 
-Credits to Sriharsha for idea :) !!!
+Credits to Sriharsha for inspiration :) !!!
